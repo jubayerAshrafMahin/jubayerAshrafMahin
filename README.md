@@ -1,37 +1,37 @@
-# 👋 Hi, I'm Jubayer Ashraf Mahin
+<h2 align='center'>Hi, I'm Jubayer Ashraf</h2>
+<div align="center">
+    <img src="https://i.ibb.co.com/8gWSmHFn/Cute-astronaut-floating-with-rocket-on-space-cartoon.gif" alt="floating astronaut">
+</div>
+<p align="center">I'm a Full-Stack Web Developer. turning ideas into clean, functional products from UI to database.</p>
+<br>
+<h2 align='center' style="">Technologies</h2>
 
-Full-stack MERN developer passionate about building fast, scalable web applications. I love turning ideas into clean, functional products — from UI to database.
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-teal.svg?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-blue.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<h2 align="center">GitHub Stats</h2>
+
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=jubayerAshrafMahin&theme=darcula&hide_border=false&background=FFFFFF00">
 
 ---
 
-## 🛠 Tech Stack
-
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Other**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubayerAshrafMahin&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerAshrafMahin&layout=compact&hide_border=true" alt="Top Languages" />
+<p align="center">I'm always open to new opportunities, collaborations, or just a friendly chat about tech!
 </p>
-
----
-
-I'm always open to new opportunities, collaborations, or just a friendly chat about tech!
-
