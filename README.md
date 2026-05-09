@@ -29,7 +29,9 @@
 
 <h2 align="center">GitHub Stats</h2>
 
+<div align="center">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=jubayerAshrafMahin&theme=darcula&hide_border=false&background=FFFFFF00">
+</div>
 
 ---
 
