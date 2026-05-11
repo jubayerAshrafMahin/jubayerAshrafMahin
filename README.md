@@ -5,7 +5,7 @@
 <p align="center">I'm Jubayer Ashraf Mahin</p>
 <p align="center">I am a Full-Stack Web Developer dedicated to transforming ideas into clean, functional products by bridging the gap between intuitive UI and robust database architecture. While my go-to tech stack is built on React, Node.js, Express, and MongoDB, I am currently focused on upgrading my backend expertise and mastering advanced collaborative workflows to build more scalable systems.</p>
 <br>
-<h2 align='center' style="font-family: cursive">Technologies</h2>
+<h2 align='center' style="font-family: cursive">Tools & Technologies</h2>
 
 
 <div align="center" >
